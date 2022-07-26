@@ -1,0 +1,24 @@
+#topTitle{
+    margin-bottom: 30px;
+    
+}
+.col1,
+.col2 {
+    margin-top: 30px;
+}
+#restaurantName {
+    border-radius: 100px;
+}
+th {
+    text-decoration: underline;
+}
+.container-fluid{
+    background: url("silver2.avif");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    background-color: #fff;
+}
